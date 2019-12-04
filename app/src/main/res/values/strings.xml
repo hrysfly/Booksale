@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Booksale</string>
+
+
+    <string name="home">主页</string>
+    <string name="category">分类</string>
+    <string name="cart">购物车</string>
+    <string name="mine">我的</string>
+    <string name="hot">热销</string>
+
+</resources>
